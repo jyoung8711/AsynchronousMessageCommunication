@@ -83,6 +83,7 @@
 		</Item>
 		<Item Name="AMC.lvlib" Type="Library" URL="../source/vi.lib/NI/AMC/AMC.lvlib"/>
 		<Item Name="AMC Templates.lvlib" Type="Library" URL="../source/vi.lib/NI/AMC/Templates/AMC Templates.lvlib"/>
+		<Item Name="ni_amc.mnu" Type="Document" URL="../source/menus/Categories/Data Communication/ni_amc.mnu"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
@@ -126,6 +127,9 @@
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="General Error Handler Core CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/General Error Handler Core CORE.vi"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+			</Item>
+			<Item Name="mscorlib" Type="VI" URL="mscorlib">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>

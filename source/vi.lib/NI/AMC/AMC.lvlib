@@ -44,6 +44,7 @@
 	</Item>
 	<Item Name="subVIs" Type="Folder">
 		<Item Name="Get Local Name and IP.vi" Type="VI" URL="../Get Local Name and IP.vi"/>
+		<Item Name="Get Machine Name.vi" Type="VI" URL="../Get Machine Name.vi"/>
 		<Item Name="Globals.vi" Type="VI" URL="../Globals.vi">
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
@@ -88,6 +89,7 @@
 			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		</Item>
 		<Item Name="select UDP port.vi" Type="VI" URL="../select UDP port.vi"/>
+		<Item Name="Open UDP Port.vi" Type="VI" URL="../Open UDP Port.vi"/>
 	</Item>
 	<Item Name="Check Message Queue Status.vi" Type="VI" URL="../Check Message Queue Status.vi"/>
 	<Item Name="Update Message Routing Info.vi" Type="VI" URL="../Update Message Routing Info.vi"/>
