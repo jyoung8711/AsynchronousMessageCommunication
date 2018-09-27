@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2010-09-24 14:57:33" Modified_Date="2018-09-27 14:35:19" Creator="loew" Comments="" ID="443f2b350f9a743fbe96f0e7754bf4d0">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2010-09-24 14:57:33" Modified_Date="2018-09-27 14:42:41" Creator="loew" Comments="" ID="1036e44d54a2c1b62b4957ba5c82af25">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_amc</Package_File_Name>
-    <Library_Version>3.3.2.125</Library_Version>
+    <Library_Version>3.3.2.126</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\export</Library_Output_Folder>
